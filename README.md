@@ -1,10 +1,13 @@
-# Overlapping text chunker
+# Quick & Dirty Text Chunker
 
-Split long text into overlapping windows for local RAG prep — no models, no API.
+Efficiently chop up lengthy text into overlapping segments for local RAG prep, sans any fancy models or APIs.
 
-No dependencies, no service to run — just the standard library.
+Pure Python, zero external dependencies, no need for a server—just the good ol' standard library.
 
-```
+```python
+#```
 chunker.ts
 ```
-See the test next to the source for usage.
+```
+
+Check out the example test alongside the source code for a quick demo on how to use it.
